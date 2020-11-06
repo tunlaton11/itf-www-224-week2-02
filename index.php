@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css"/>
 </head>
 
-<body style="background-color:#FFF1C4 ;">
+<body style="background-color:#757575 ;">
   <div class="py-5">
     <div class="container">
       <div class="row">
