@@ -15,7 +15,7 @@
       <div class="row">
         <div class="mx-auto col-md-8 text-center">
           <h1>63070224</h1>
-          <p class="mb-4">Tunlaton Wongchai</p>
+          <p class="mb-4" style="color:#FF0000">Tunlaton Wongchai</p>
         </div>
       </div>
       <div class="row">
