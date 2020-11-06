@@ -14,8 +14,8 @@
     <div class="container">
       <div class="row">
         <div class="mx-auto col-md-8 text-center">
-          <h1>63070224</h1>
-          <p class="mb-4" style="color:#FF0000">Tunlaton Wongchai</p>
+          <h1 style="color:#FFFFFF">63070224</h1>
+          <p class="mb-4" style="color:#FFFFFF">Tunlaton Wongchai</p>
         </div>
       </div>
       <div class="row">
